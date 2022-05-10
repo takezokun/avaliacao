@@ -1,0 +1,89 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background: linear-gradient(black, red,black);
+    
+}
+
+body h2{
+    font-size: 40px;
+}
+.menu{
+    font-size: 30px;
+    text-align: center;
+}
+
+header{
+    padding: 5px;
+}
+
+.lista1{
+    padding: 10px;
+}
+
+.lista1 a{
+    color: white;
+    text-decoration: none;
+}
+
+.lista1{
+    width: 30%;
+    margin-left: 20px;
+}
+
+
+.bio #pbio{
+    position: relative;
+    left: 20%;
+    color: black;
+    background-color: white;
+    padding: 15px;
+    width: 50%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+.bio img{
+    position: relative;
+    left: 21%;
+    width: 50%; height: 50%;
+}
+
+.albuns a{
+    color: white;
+    text-decoration: none;
+}
+
+.albuns img{
+    position: relative;
+    left: 25%;
+    width: 35%; height: 35%;
+
+}
+
+.curio img{
+    position: relative;
+    left: 3%;
+    width: 40%; height: 40%;
+}
+
+.curio p{   
+    color: white;
+    padding: 15px;
+}
+
+button{
+    background-color: red;
+    border-radius: 5px;
+    padding: 3px;  
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+}
